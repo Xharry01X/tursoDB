@@ -1,0 +1,4 @@
+fastapi==0.113.0
+uvicorn==0.30.6
+python-dotenv==1.0.1
+libsql_experimental==0.0.40
